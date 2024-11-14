@@ -1,0 +1,8 @@
+# Ignore VS Code settings
+.vscode/
+settings.json
+
+# Ignore other system and configuration files
+*.log
+*.DS_Store
+
