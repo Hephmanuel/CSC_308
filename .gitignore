@@ -5,4 +5,5 @@ settings.json
 # Ignore other system and configuration files
 *.log
 *.DS_Store
+*.exe
 
